@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', () => {
-	alert('to aqui duas vezes hehe');
+	console.log('Estou no arquivo app/javascript/misc/main/programs.js');
 });
